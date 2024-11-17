@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Nolari647
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Nolari647
 - 🌱 I’m currently learning Virtual assistant Course at ALX
-- 💞️ I’m looking to collaborate on finding new opportunities 
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on finding new opportunities
 - 😄 Pronouns: She
 - ⚡ Fun fact: 
 
